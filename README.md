@@ -1,5 +1,5 @@
 - 🙋‍♀️ Hi, I’m @Katerog
-- 💙 I’m interested in Coding
+- 💙 I’m interested in Coding and languages
 - 📚 I’m currently learning JavaScript
 - 💛 I’m looking to collaborate on ...
 - 💚 How to reach me Katerog1201@gmail.com
