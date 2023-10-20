@@ -1,7 +1,7 @@
-- 🙋‍♀️ Hi, I’m @Katerog
+- 🙋‍♀️ Hi, I’m @Katerog, Junior Data Analyst
 - 💙 I’m interested in Coding and languages
-- 📚 I’m currently learning JavaScript
-- 💛 I’m looking to collaborate on ...
+- 📚 I’m currently mastering my skills with MySQL and Python
+- 💛 I’m looking to collaborate on Data Analysis Exciting Projects
 - 💚 How to reach me Katerog1201@gmail.com
 - 🏊 I'm a former professional swimmer
 
