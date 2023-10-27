@@ -1,4 +1,4 @@
-- 🙋‍♀️ Hi, I’m @Katerog, Junior Data Analyst
+- 🙋‍♀️ Hi, I’m @Katerog, an enthusiastic Data Analyst
 - 💙 I’m interested in Coding and languages
 - 📚 I’m currently mastering my skills with MySQL and Python
 - 💛 I’m looking to collaborate on Data Analysis Exciting Projects
